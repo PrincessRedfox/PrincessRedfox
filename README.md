@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrincessRedfox
+- 👋 Hi, I’m Sarina Saiyed
 - 👀 I’m interested in coding and arts
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: www.linkedin.com/in/sarina-s
